@@ -1,0 +1,11 @@
+Moquillo
+
+immunocromatografia:  =>positiva=>Test Elisa=>positivo=> Moquillo
+		              				        =>negativo: =>pocos sintomas:=>siguiente enfermedad
+											     		=>muchos sintomas=>PCR=>positiva=>Moquillo
+																			  =>negativa=> siguiente enfermedad
+					  
+					  
+					  
+					  =>negativa: => pocos sintomas=> siguiente enfermedad
+					  			  => muchos sintomas=> volver  al la parte del Test Elisa

@@ -1,0 +1,20 @@
+1.- test rapido (sangre): presencia de anticuerpos
+         - pocos sintomas  => OTRA COSA
+
+         - muchos sintomas
+         + positivo (confirmar)
+
+                 => Test ELIA o IFI (anticuerpos cuantificados)
+                         pocos anticuerpos/ pocos sintomas   => OTRA COSA
+                         muchos anticuerpos => LEISHMANIA
+                         pocos anticuerpos pero muchos sintomas => CITOLOGIA
+                                 + => LEISHMANIA
+                                 - => OTRA COSA
+
+
+En caso de Leishmania, otras pruebas para decidir la gravedad de su
+enfermedad:
+     Analisis de sangre + orina + proteinograma  -> insuficiencia renal
+(No / Si  / severa)
+                                                 -> insuficiencia
+pancreatica (No/ Si /Severa)

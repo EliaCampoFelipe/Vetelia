@@ -1,0 +1,8 @@
+Parvo
+
+1. Prueba rapida de antigenos(sangre):
+	-positiva: parvo
+	-Negativa: =>pocos sintomas=>pasar siguiente enfermedad
+		       =>muchos sintomas=> siguente prueba: preuba de heces o Elisa: =>positiva: parvo
+										        							 =>negativa: PCR heces: =>positiva:parvo
+													      											=>negativa: siguiente enfermedad
